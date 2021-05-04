@@ -7,20 +7,25 @@ assignees: ''
 
 ---
 
-### Today's Goal:
-What are you setting out to learn/achieve today?
+### Motivation/Problem Statement 💭❓:
+***Why*** are you sitting down at the computer today? What is motivating you to action today?
 
 ---
 
-### Result:  The fruits of your labor!
-Screenshots, videos, text, welcome!
+### Today's Goal/Solution 🥅:
+***What*** are you setting out to learn/achieve today?  If you succeed, what are you hoping to accomplish?
 
 ---
 
-### Observations & Next Steps:
+### Result 🍓🍌🍉:
+The fruits of your labor! Screenshots, videos, text, welcome!
+
+---
+
+### Observations & Next Steps 🔭👣:
 What are some conclusions from your readings and findings?  Are you happy with your results?  What might you refactor or change in the future?
 
 ---
 
-### References:
+### References 🔗:
 Link any useful resources you may have found throughout the day.
