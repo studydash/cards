@@ -1,6 +1,6 @@
 ---
 name: "'Daily Accomplishment' template"
-about: "'Daily Accomplishment' template for CodeNewbie study group"
+about: A coding-related entry for your StudyDash daily contribution.
 title: "<Your accomplishment here!> (Month/Day)"
 labels: daily accomplishment
 assignees: ''
